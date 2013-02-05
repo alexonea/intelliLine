@@ -2,7 +2,7 @@
 ***
 
 ##About
-intelliLine is my first attempt to create an perceptron and my first get in touch with the AI. The main goal of the application is to tell if a point (x1, y1) is above or below the x + y = 0 line. In this direction, a perceptron is created and trained on a range of 3000 points (for which we know if they are above or below the line). The application aims to visually demonstrate the correctness of the algorithm.
+intelliLine is my first attempt to create a perceptron and my first get in touch with the AI. The main goal of the application is to tell if a point (x1, y1) is above or below the x + y = 0 line. In this direction, a perceptron is created and trained on a range of 3000 points (for which we know if they are above or below the line). The application aims to visually demonstrate the correctness of the algorithm.
 
 ##How to test
 To compile the sources, from the root directory:
