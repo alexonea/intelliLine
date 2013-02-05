@@ -13,7 +13,7 @@ $ make
 To run the test, from the root directory:
 `````bash
 $ make run
-`````bash
+`````
 
 To remove the class files after you've finished running the test, from the root directory:
 `````bash
